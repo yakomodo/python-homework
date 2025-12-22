@@ -12,7 +12,7 @@ print("Середнє:", average)
 mins = int(input("Введіть кількість хвилин: "))
 hrs = mins // 60
 mins_left = mins % 60
-print(hrs, "години", mins_left, "хвилини")
+print(hrs, "години", mins_left, "хвилин")
 
 ### Завдання 4.
 price = float(input("Введіть ціну: "))
