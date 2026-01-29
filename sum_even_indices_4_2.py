@@ -9,7 +9,8 @@ def sum_even_indices(lst):
     return result
 
 # тест
-print(sum_even_indices([0, 1, 7, 2, 4, 8]))  # 88
-print(sum_even_indices([1, 3, 5]))  # 30
-print(sum_even_indices([6]))  # 36
-print(sum_even_indices([]))  # 0
+print(sum_even_indices([0, 1, 7, 2, 4, 8]))
+print(sum_even_indices([1, 3, 5]))
+print(sum_even_indices([6]))
+
+print(sum_even_indices([]))
